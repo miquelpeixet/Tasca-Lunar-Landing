@@ -11,9 +11,7 @@ body{font-size:3vw}
     height:100%;
     width:100%;
     background-color:rgb(139, 130, 130);
-    margin-left:40px;
-    position:auto;
-
+    margin:auto;
 }
 .c{
     height:200px;
@@ -21,16 +19,22 @@ body{font-size:3vw}
     background-color:rgb(107, 107, 241);
     margin-right: 20px;
     position:absolute;
-
 }
 
 .d{
     height:10%;
     width:100%;
-    background-color:pink;
+    background-color:rgb(207, 203, 159);
     position:fixed;
     bottom:0px;
+    position:absolute;
 }
-#nave{text-align:center;position:fixed;top:5%;width:100%;height:20%;}
+#nave{
+    text-align:center;
+    position:fixed;
+    top:5%;
+    width:100%;
+    height:20%;
+}
 #nave img{height:100%;}
 #cpanel{}
