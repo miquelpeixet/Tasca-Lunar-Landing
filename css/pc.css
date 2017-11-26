@@ -9,10 +9,10 @@ body{font-size:3vw}
 }
 .b{
     height:100%;
-    width:60%;
+    width:100%;
     background-color:rgb(139, 130, 130);
     margin-left:40px;
-    position:absolute;
+    position:auto;
 
 }
 .c{
