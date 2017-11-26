@@ -5,18 +5,23 @@ body{font-size:3vw}
     width:20%;
     background-color:rgb(107, 107, 241);
     margin-right: 20px;
+    position:absolute;
 }
 .b{
     height:100%;
     width:60%;
     background-color:rgb(139, 130, 130);
     margin-left:40px;
+    position:absolute;
+
 }
 .c{
     height:200px;
     width:20%;
     background-color:rgb(107, 107, 241);
     margin-right: 20px;
+    position:absolute;
+
 }
 
 .d{
