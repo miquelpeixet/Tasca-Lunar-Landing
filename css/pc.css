@@ -4,7 +4,7 @@ body{font-size:3vw}
     height:200px;
     width:20%;
     background-color:rgb(107, 107, 241);
-    margin-right: 20px;
+    margin-left: 20px;
     position:absolute;
 }
 .b{
@@ -12,6 +12,7 @@ body{font-size:3vw}
     width:100%;
     background-color:rgb(139, 130, 130);
     margin:auto;
+    position:fixed;
 }
 .c{
     height:200px;
@@ -27,7 +28,7 @@ body{font-size:3vw}
     background-color:rgb(207, 203, 159);
     position:fixed;
     bottom:0px;
-    position:absolute;
+    
 }
 #nave{
     text-align:center;
