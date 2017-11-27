@@ -21,6 +21,7 @@ body{font-size:3vw}
     margin-right: 20px;
     position:absolute;
 }
+.a,.b,.c{display:inline-block;width:33.33%;height:100%;float:left;}
 
 .d{
     height:10%;
