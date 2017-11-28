@@ -3,17 +3,14 @@ body{font-size:3vw}
 .a{
     background-color:rgb(107, 107, 241);
     margin-left: 20px;
-    position:absolute;
 }
 .b{
     background-color:rgb(56, 54, 54);
     margin:auto;
-    position:absolute;
 }
 .c{
     background-color:rgb(107, 107, 241);
     margin-right: 20px;
-    position:absolute;
 }
 .a,.b,.c{display:inline-block;width:33.33%;height:100%;float:left;}
 
