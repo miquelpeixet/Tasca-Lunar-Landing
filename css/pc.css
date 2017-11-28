@@ -2,15 +2,12 @@ body,html{height:100%;padding:0px;margin:0px}
 body{font-size:3vw}
 .a{
     background-color:rgb(107, 107, 241);
-    margin-left: 20px;
 }
 .b{
     background-color:rgb(56, 54, 54);
-    margin:auto;
 }
 .c{
     background-color:rgb(107, 107, 241);
-    margin-right: 20px;
 }
 .a,.b,.c{display:inline-block;width:33.33%;height:100%;float:left;}
 
