@@ -2,8 +2,11 @@ body,html{height:100%;padding:0px;margin:0px}
 body{font-size:3vw}
 .a{
     background-color:rgb(107, 107, 241);
-    list-style:none;
+    ul{
+        list-style-type: none;
 }
+}
+
 .b{
     background-color:rgb(56, 54, 54);
 }
