@@ -31,4 +31,5 @@ body{font-size:3vw}
 #nave img{height:100%;}
 
 #cpanel{
+    list-style:none;
 }
