@@ -1,7 +1,7 @@
 # Tasca-Lunar-Landing
 
 Adjunt l'enllaç de Rawgit [aquí.](https://rawgit.com/miquelpeixet/Tasca-Lunar-Landing/master/index-pc.html)
-La feina està inacabada però a continuació descric la part del procés. 
+La feina està **inacabada** però a continuació descric la part del procés. 
 
 En primer lloc he partit de les propostes de codis proposades pel professor, tant hmtl com el css.   
 Tot seguit he cercat imatges per posar al projecte, encara que finalment només he utilitzat la nau, que he pogut trobar a la web FlatIcon, que ofereix banc d'imatges lliures.  
