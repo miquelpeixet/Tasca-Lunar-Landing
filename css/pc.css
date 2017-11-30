@@ -26,4 +26,12 @@ body{font-size:3vw}
     z-index:1;
 }
 #nave img{height:100%;}
+
+#moon img{
+    text-align:center;
+    position:fixed;
+    bottom:5%;
+    height:20%;
+    weight:20%;
+}
 #cpanel{}
